@@ -1,0 +1,119 @@
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\gestionSalaries.exe.config
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\gestionSalaries.exe
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\gestionSalaries.pdb
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\Google.Protobuf.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\ZstdNet.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\System.Memory.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\System.Buffers.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\bin\Debug\MySql.Data.xml
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.AssemblyReference.cache
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.exe.config
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.Properties.Resources.resources
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.GenerateResource.cache
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CopyComplete
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.exe
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.pdb
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.Form1.resources
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_Employees.resources
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_login.resources
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_Paie.resources
+C:\Users\reddy\Downloads\csharp\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_utilisateur.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\gestionSalaries.exe.config
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\gestionSalaries.exe
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\gestionSalaries.pdb
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\Google.Protobuf.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Memory.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Buffers.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\MySql.Data.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.AssemblyReference.cache
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.Form1.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_Employees.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_login.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_Paie.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.frm_utilisateur.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.Properties.Resources.resources
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.GenerateResource.cache
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CopyComplete
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.exe
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\obj\Debug\gestionSalaries.pdb
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\MySql.Data.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.IO.Pipelines.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\ZstdSharp.dll
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\Google.Protobuf.pdb
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\Google.Protobuf.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Buffers.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.IO.Pipelines.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Memory.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chara\Downloads\Database Project\SMS\gestionSalaries\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\gestionSalaries.exe.config
+C:\xampp\htdocs\gestionSalaries\bin\Debug\gestionSalaries.exe
+C:\xampp\htdocs\gestionSalaries\bin\Debug\gestionSalaries.pdb
+C:\xampp\htdocs\gestionSalaries\bin\Debug\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\MySql.Data.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.IO.Pipelines.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\ZstdSharp.dll
+C:\xampp\htdocs\gestionSalaries\bin\Debug\BouncyCastle.Cryptography.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\Google.Protobuf.pdb
+C:\xampp\htdocs\gestionSalaries\bin\Debug\Google.Protobuf.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Compression.LZ4.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\K4os.Hash.xxHash.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Buffers.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.IO.Pipelines.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Memory.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Numerics.Vectors.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\xampp\htdocs\gestionSalaries\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\xampp\htdocs\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.AssemblyReference.cache
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.Form1.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.frm_Employees.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.frm_login.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.frm_Paie.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.frm_utilisateur.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.Properties.Resources.resources
+C:\xampp\htdocs\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.GenerateResource.cache
+C:\xampp\htdocs\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\gestionSalaries\obj\Debug\salarymanagementsystem.csproj.CopyComplete
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.exe
+C:\xampp\htdocs\gestionSalaries\obj\Debug\gestionSalaries.pdb
